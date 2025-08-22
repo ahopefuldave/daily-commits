@@ -1,4 +1,4 @@
 # daily-commits
 
 
-what do web writ
+what do
