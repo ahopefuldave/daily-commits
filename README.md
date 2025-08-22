@@ -1,4 +1,4 @@
 # daily-commits
 
 
-what do web write here?
+what do web writ
